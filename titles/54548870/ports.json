@@ -6,11 +6,11 @@
           "mappedTo": 80
       }
     ],
-    "bind": [
+    "bind": [,
       {
         "info": "Unknown",
-        "port": 8676,
-        "mappedTo": 8676
+        "port": 7777,
+        "mappedTo": 7777
       },
       {
         "info": "Unknown",
@@ -19,8 +19,18 @@
       },
       {
         "info": "Unknown",
-        "port": 7777,
-        "mappedTo": 7777
+        "port": 8676,
+        "mappedTo": 8676
+      },
+      {
+        "info": "Unknown",
+        "port": 14000,
+        "mappedTo": 14000
+      },
+      {
+        "info": "Unknown",
+        "port": 14001,
+        "mappedTo": 14001
       }
     ]
   }
