@@ -1,0 +1,26 @@
+{
+    "connect": [
+      {
+          "info": "http",
+          "port": 80,
+          "mappedTo": 80
+      }
+    ],
+    "bind": [
+      {
+        "info": "Unknown",
+        "port": 8676,
+        "mappedTo": 8676
+      },
+      {
+        "info": "Unknown",
+        "port": 8675,
+        "mappedTo": 8675
+      },
+      {
+        "info": "Unknown",
+        "port": 7777,
+        "mappedTo": 7777
+      }
+    ]
+  }
