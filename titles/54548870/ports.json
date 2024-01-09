@@ -6,7 +6,7 @@
           "mappedTo": 80
       }
     ],
-    "bind": [,
+    "bind": [
       {
         "info": "Unknown",
         "port": 7777,
