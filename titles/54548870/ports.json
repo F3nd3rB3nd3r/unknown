@@ -2,7 +2,7 @@
     "connect": [
       {
           "info": "http",
-          "port": 80,
+          "port": 0,
           "mappedTo": 80
       }
     ],
